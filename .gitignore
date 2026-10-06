@@ -1,0 +1,12 @@
+#API Keys
+.env
+
+#Python virtual env
+.venv
+
+#Python Cache 
+_pycache__/
+*.pyc
+
+# Test gemini code
+test_gemini_api.py
